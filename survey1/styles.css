@@ -41,7 +41,7 @@
     font-weight: 10;
     opacity: 0.5;
 }
-.flex-containter {
+.flex-container {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
